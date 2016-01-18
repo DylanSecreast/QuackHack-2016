@@ -23,5 +23,5 @@ All content on CS:GO Forecast is for educational purposes and there is no affili
 3. Start localhost MySQL via XAMPP
 4. Navigate to `http://localhost/phpmyadmin` to open phpMyAdmin
 5. Create a new database named `quackhack` with `utf8_general_ci` collation
-6. Navigate to `http://localhost:63342/QuackHack/index.php` to set up the database table
+6. Run `http://localhost:63342/QuackHack/index.php` to set up the database table
 7. Run `http://localhost:63342/QuackHack/index.php`
